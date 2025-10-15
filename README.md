@@ -21,6 +21,5 @@ Este repositorio funcionará de índice central para acceder a los trabajos prá
 
 [tp1]: https://github.com/YagoGandara/2025_TP01_RepoBase 
 [tp2]: https://github.com/YagoGandara/tp2-docker-ISW3
-[tp3]: 
 [tp4]: https://github.com/YagoGandara/TP04-Pipelines-Azure---Repo-Base
 [tp5]: https://github.com/YagoGandara/TP05-Release-Pipelines 
