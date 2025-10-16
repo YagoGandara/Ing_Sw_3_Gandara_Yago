@@ -13,8 +13,8 @@ Este repositorio funcionará de índice central para acceder a los trabajos prá
 | 2 | [Trabajo Práctico 2][tp2] | ✅ Completado |
 | 3 | [Trabajo Práctico 3][tp3] | ✅ Completado |
 | 4 | [Trabajo Práctico 4][tp4] | ✅ Completado |
-| 5 | [Trabajo Práctico 5][tp5] | 🛠️ En curso |
-| 6 | [Trabajo Práctico 6][tp6] | ⏳ Pendiente |
+| 5 | [Trabajo Práctico 5][tp5] | ✅ Completado |
+| 6 | [Trabajo Práctico 6][tp6] | 🛠️ En curso|
 | 7 | [Trabajo Práctico 7][tp7] | ⏳ Pendiente |
 | 8 | [Trabajo Práctico 8][tp8] | ⏳ Pendiente |
 
