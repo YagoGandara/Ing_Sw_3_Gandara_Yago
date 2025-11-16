@@ -17,6 +17,8 @@ Este repositorio funcionará de índice central para acceder a los trabajos prá
 | 6 | [Trabajo Práctico 6][tp6] | ✅ Completado |
 | 7 | [Trabajo Práctico 7][tp7] | ✅ Completado |
 | 8 | [Trabajo Práctico 8][tp8] | ✅ Completado |
+| 9 | [Trabajo Final IS3 ][FINAL] |  En curso |
+
 
 El trabajo práctico 3 lo tengo en azure, por eso no está el link aquí
 [tp1]: https://github.com/YagoGandara/2025_TP01_RepoBase 
@@ -26,3 +28,4 @@ El trabajo práctico 3 lo tengo en azure, por eso no está el link aquí
 [tp6]: https://github.com/YagoGandara/TP06-Version2 
 [tp7]: https://github.com/YagoGandara/TP07-CodeCoverage-Gandara 
 [tp8]: https://github.com/YagoGandara/TP08-Docker 
+[FINAL]: https://github.com/YagoGandara/Final_Ingenier-a_De_Software_3 
